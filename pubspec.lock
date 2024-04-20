@@ -359,7 +359,7 @@ packages:
     source: hosted
     version: "0.8.2"
   flutter_cache_manager:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: flutter_cache_manager
       sha256: "8207f27539deb83732fdda03e259349046a39a4c767269285f449ade355d54ba"
@@ -550,7 +550,7 @@ packages:
     source: hosted
     version: "4.2.0"
   http:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: http
       sha256: a2bbf9d017fcced29139daa8ed2bba4ece450ab222871df93ca9eec6f80c34ba
